@@ -5,4 +5,3 @@ branca
 numpy
 voila
 stravalib==0.10.2
-pint==0.9  
