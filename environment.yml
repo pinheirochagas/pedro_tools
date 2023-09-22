@@ -11,3 +11,4 @@ dependencies:
     - folium
     - branca
     - numpy
+    - pint==0.9
