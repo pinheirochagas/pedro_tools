@@ -3,12 +3,12 @@ channels:
   - defaults
 dependencies:
   - python=3.9.12
-  - pip
+  - ipywidgets
+  - matplotlib
+  - folium
+  - branca
+  - numpy
+  - voila
   - pip:
     - stravalib==0.10.2
-    - ipywidgets
-    - matplotlib
-    - folium
-    - branca
-    - numpy
     - pint==0.9
