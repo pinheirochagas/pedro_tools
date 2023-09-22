@@ -1,7 +1,0 @@
-ipywidgets
-matplotlib
-folium
-branca
-numpy
-voila
-stravalib==0.10.2
